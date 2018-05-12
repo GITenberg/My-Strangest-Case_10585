@@ -1,5 +1,8 @@
 _repo: My-Strangest-Case_10585
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boothby, Guy
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3587
     wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10585#My-Strangest-Case
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
